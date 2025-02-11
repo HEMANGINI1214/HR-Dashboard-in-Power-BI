@@ -1,0 +1,52 @@
+📂 Steps Followed
+
+🔹 Step 1: Importing Data into Power BI
+Open Power BI and load the HR dataset (Excel/CSV format).
+Check for missing values and data inconsistencies.
+Use Power Query Editor for data cleaning and transformation.
+
+🔹 Step 2: Data Cleaning & Transformation
+Remove duplicates and handle missing values.
+Convert data types (e.g., date formats, numeric values).
+Create calculated columns for additional insights (e.g., Tenure, Age Grouping, Experience Level).
+Add new measures using DAX (e.g., Total Employees, Attrition Rate, Average Salary).
+
+🔹 Step 3: Building Relationships in Data Model
+Define relationships between tables (e.g., linking Employee Details with Department Table).
+Ensure one-to-many and many-to-one relationships are correctly set.
+
+🔹 Step 4: Creating Visualizations
+Use KPI Cards to display key metrics (Total Employees, Attrition Rate, Avg. Salary, etc.).
+Bar Charts for department-wise employee distribution and salary comparison.
+Pie Charts for gender distribution.
+Line Charts for attrition trends over time.
+Tree Map for hierarchical data like employee count per department.
+Slicers for interactivity (e.g., filter by department, gender, experience level).
+
+🔹 Step 5: Adding Interactivity & Filters
+Use slicers and drill-through options for dynamic filtering.
+Implement cross-filtering between visuals for better user experience.
+
+🔹 Step 6: Formatting & Finalizing the Dashboard
+Optimize layout for clarity and readability.
+Use consistent colors and themes for a professional look.
+Add titles, tooltips, and labels for better data interpretation.
+
+🔹 Step 7: Publishing & Sharing
+Publish the dashboard to Power BI Service.
+Configure data refresh settings for real-time updates.
+Share reports with stakeholders via Power BI online workspace.
+
+
+🛠️ Tools & Technologies Used :
+Power BI for data visualization and dashboard creation.
+Power Query for data cleaning and transformation.
+DAX (Data Analysis Expressions) for creating measures and calculated columns.
+Excel/CSV as the data source.
+
+
+📌 Key Insights from the Dashboard :
+Employee attrition rate is highest in the Sales department.
+Average salary gap between departments shows trends in compensation.
+Experience level analysis reveals retention challenges in mid-level positions.
+Department-wise gender ratio shows imbalances in hiring practices.
